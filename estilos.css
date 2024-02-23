@@ -1,0 +1,28 @@
+div{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.dioses-resultado{
+    display: flex;
+    flex-direction: column;
+    
+}
+#diosesH3{
+    display: flex;
+    justify-content: center;
+}
+
+
+#diosesP{
+    display: flex;
+    justify-content: center;
+}
+#diosesQ{
+    display: flex;
+    justify-content: center;
+}
+#diosesR{
+    display: flex;
+    justify-content: center;
+}
